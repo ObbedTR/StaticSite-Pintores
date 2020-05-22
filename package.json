@@ -1,0 +1,14 @@
+{
+  "name": "pintores",
+  "version": "1.0.0",
+  "description": "Sitio web estático con express de los, las y les pintores que más me gustan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime Obbed Tarango Ramírez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
